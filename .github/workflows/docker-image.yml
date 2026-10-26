@@ -9,7 +9,7 @@ on:
 
 env:
   DOCKERHUB_SLUG: docker.io/yucatovo/derper
-  GHCR_SLUG: ghcr.io/yucat-ovo/derper
+  GHCR_SLUG: ghcr.io/shigouqaq/derper
 
 permissions:
   contents: read
